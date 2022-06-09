@@ -54,7 +54,7 @@
             // lbResposta
             // 
             this.lbResposta.AutoSize = true;
-            this.lbResposta.Location = new System.Drawing.Point(131, 134);
+            this.lbResposta.Location = new System.Drawing.Point(12, 135);
             this.lbResposta.Name = "lbResposta";
             this.lbResposta.Size = new System.Drawing.Size(89, 20);
             this.lbResposta.TabIndex = 2;
